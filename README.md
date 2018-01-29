@@ -6,6 +6,6 @@
 1. Post a selfie
 ![alt text][selfie]
 
-[selfie]: IMG_20180129_125611.jpg
+[selfie]: 20180129_141353.jpg
 
-2. Tell me something interesting about yourself
+2. I work on cars and occasianally build things
